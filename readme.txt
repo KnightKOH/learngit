@@ -5,3 +5,6 @@ git stash
 git stash pop
 git cherry-pick
 git merge --no-ff -m "" nthnth
+
+git remote
+get remote v
