@@ -7,4 +7,8 @@ git cherry-pick
 git merge --no-ff -m "" nthnth
 
 git remote
-get remote v
+git remote v
+
+git tag
+git tag <tagname>
+git tag -a <tagname> -m "balalala"
